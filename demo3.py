@@ -15,3 +15,4 @@ resta = int(valor1) - int (valor2) # aqui realizo la resta
 multiplicacion = int(valor1) * int (valor2) # aqui realizo la multiplicacion
 
 print("La suma es :%d\tLa resta es :%d\tLa multiplicacion es :%d\t" % (suma,resta,multiplicacion))
+ 
