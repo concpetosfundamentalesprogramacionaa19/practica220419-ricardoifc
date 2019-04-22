@@ -11,3 +11,4 @@ total = resultado- float(descuento)
 # salida en pantalla de datos
 print("Su sueldo es: %.2f \nEl descuento es:%.2f\nTotal: %.2f"
  % (resultado,descuento,total))
+

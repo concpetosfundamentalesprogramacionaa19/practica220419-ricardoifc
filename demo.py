@@ -14,4 +14,3 @@ print ("variable argv[0]:	%s" % variable)
 print ("variable argv[1]:	%s" % dato1)
 print ("variable argv[2]:	%s" % dato2)
 print ("variable argv[3]:	%s" % dato3)
-

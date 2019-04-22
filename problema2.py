@@ -13,3 +13,4 @@ m = x+(y/z)/x-(y/z) # salida en pantalla de datos
 # ahora se muestra en pantalla
 print("El valor de m, en base a las variables:\nx = %.1f\n\ty"
 " = %.1f\n\t\tz = %.1f\nda como resultado:\n\tm = %.2f" % (x,y,z,m))
+

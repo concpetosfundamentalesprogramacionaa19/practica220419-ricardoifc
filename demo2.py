@@ -13,3 +13,4 @@ print ("variable argv[1]:	%s" % valor1)
 print ("variable argv[2]:	%s" % valor2)
 suma = int(valor1) +int (valor2) # aqui realizo la suma
 print("La suma es :%d" % suma)
+
